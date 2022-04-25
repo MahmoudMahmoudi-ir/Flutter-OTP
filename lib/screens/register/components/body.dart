@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:otp/screens/components/text.dart';
+import 'package:otp/components/text.dart';
 import 'package:otp/screens/otp/otp.dart';
 import 'package:otp/screens/register/components/button.dart';
 import 'package:otp/screens/register/components/text_field.dart';
