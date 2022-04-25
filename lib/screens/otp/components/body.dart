@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:otp/screens/components/text.dart';
+import 'package:otp/components/text.dart';
 import 'package:otp/screens/home/home.dart';
 import 'package:otp/screens/otp/components/text_field.dart';
 
