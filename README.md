@@ -1,16 +1,10 @@
-# otp
+## احراز هویت پیامکی
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<p float="left">
+<img src="https://user-images.githubusercontent.com/104356676/165222106-d80057db-245f-4ca1-ba21-394bd80a41cc.png" width="400">
+<img src="https://user-images.githubusercontent.com/104356676/165222172-951fffda-2e50-4501-b922-259d738ea428.png" width="400" >
+</p>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
